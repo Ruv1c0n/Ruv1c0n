@@ -41,7 +41,7 @@ C++/Python-разработчик в команде, создающей комм
 
 | 🔥 Серия контрибьюций | 💻 Топ языков |
 |:---:|:---:|
-| ![Streak](https://streak-stats.demolab.com?user=Ruv1c0n&hide_border=true&locale=ru) | ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruv1c0n&layout=compact&hide_border=true&langs_count=8) |
+| ![Streak](https://streak-stats.demolab.com?user=Ruv1c0n&hide_border=true&locale=ru) | ![Top langs](https://raw.githubusercontent.com/Ruv1c0n/Ruv1_stats/master/profile-summary-card-output/2077/1-repos-per-language.svg) |
 
 ## 🐍 Змейка
 
